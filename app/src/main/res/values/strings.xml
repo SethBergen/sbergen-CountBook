@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sbergen--CountBook</string>
+    <string name="title_activity_add_counter">AddCounterActivity</string>
+</resources>
